@@ -1,0 +1,8 @@
+{
+  "name": "Remix Recetario Inteligente",
+  "description": "Extractor de recetas mediante IA desde URLs de redes sociales, videos locales y gestor culinario profesional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
